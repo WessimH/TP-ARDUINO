@@ -41,7 +41,7 @@ pinMode(7,OUTPUT);//led
    digitalWrite(D6,0);
    digitalWrite(D7,0);
 
-   randomSeed(analogRead(0));
+
 }
 
 void loop() {
@@ -61,7 +61,7 @@ if (randonNB== 6 ){six();
 digitalWrite(3,1);
 //led rgb 
 displayColor(random(0,255),random(0,255),random(0,255));//couleur sous format rgb 
-delay(2000);
+
 
 }
 digitalWrite(PIN_LED_G,0);
