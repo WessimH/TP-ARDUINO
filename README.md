@@ -1,10 +1,9 @@
 # documentation
 
 la seule bibliothèqUE requise est <span style="color: #f01a2c">'IRremote_h'</span> 
-elle sert a gérer tout ce qui est capteur infrarouge pour plus d'information voici la   
-[documentation](https://github.com/Arduino-IRremote/Arduino-IRremote).
+elle sert a gérer tout ce qui est capteur infrarouge pour plus d'information voici la[documentation](https://github.com/Arduino-IRremote/Arduino-IRremote).
 ##  Fonctions
-concernant les fonctions elle s'oganisnent de un a six dans l'ordre croissant(one = 1 et 6 = six) :  
+Concernant les fonctions elle s'oganisnent de un a six dans l'ordre croissant(one = 1 et 6 = six) :  
 ![différents patterns du dé](images.png)  
 
 
