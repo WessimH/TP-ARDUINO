@@ -71,9 +71,7 @@ digitalWrite(PIN_LED_B,0);
 
 
 
-int test(){
-  return random(0,255);
- }
+
 void one(){
   digitalWrite(D7,1);
   delay(500);
