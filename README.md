@@ -4,7 +4,7 @@ la seule bibliothèqUE requise est <span style="color: #f01a2c">'IRremote_h'</sp
 elle sert a gérer tout ce qui est capteur infrarouge pour plus d'information voici la [documentation](https://github.com/Arduino-IRremote/Arduino-IRremote).
 ##  Fonctions
 Concernant les fonctions elle s'oganisnent de un a six dans l'ordre croissant(one = 1 et 6 = six) :  
-![différents patterns du dé](images.png)  
+![différents patterns du dé](img/images.png)  
 
 
 
@@ -14,7 +14,7 @@ Concernant les fonctions elle s'oganisnent de un a six dans l'ordre croissant(on
 ## LED 
 __concernant les leds elles sont anoté de d1 a d7 comme montré dans le schéma ci dessous:__  
 
-![shéma dé](d_image.png)  
+![shéma dé](img/d_image.png)  
 
 pour suivre le pattern du dés j'ai renomé mes variables de leds de la meme façon avec  <span style="color: #85ff91">#define</span> *nom de variable* NB_pin.  
 **exemple:**
